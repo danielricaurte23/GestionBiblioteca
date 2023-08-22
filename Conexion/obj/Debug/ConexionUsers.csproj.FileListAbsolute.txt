@@ -1,0 +1,6 @@
+C:\Users\danie\OneDrive\Escritorio\Conexion\bin\Debug\Conexion.dll
+C:\Users\danie\OneDrive\Escritorio\Conexion\bin\Debug\Conexion.pdb
+C:\Users\danie\OneDrive\Escritorio\Conexion\obj\Debug\ConexionUsers.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Conexion\obj\Debug\ConexionUsers.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Conexion\obj\Debug\Conexion.dll
+C:\Users\danie\OneDrive\Escritorio\Conexion\obj\Debug\Conexion.pdb
